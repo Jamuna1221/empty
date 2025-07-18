@@ -9,3 +9,5 @@
 9.Cleaning
 10.solve chess
 11.write exam
+12.Play games
+13. cook
