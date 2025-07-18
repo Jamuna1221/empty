@@ -7,3 +7,5 @@
 7.Practice Code
 8. meditation
 9.Cleaning
+10.solve chess
+11.write exam
